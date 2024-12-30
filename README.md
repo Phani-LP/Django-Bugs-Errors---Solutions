@@ -1,6 +1,6 @@
 # Django-Bugs-Errors---Solutions
 
-Solution to problem 1:
+<h3>Solution to problem 1:</h3>
 The solution to this issue for me is detailed here: <a href="https://docs.djangoproject.com/en/4.2/howto/static-files/#serving-static-files-during-development"> Serving static files during development</a>
 
 <h3>Just add this to your project's urls.py:</h3>
